@@ -1,0 +1,7 @@
+NODE 0
+MOV acc inp
+LABEL start
+MOV acc out
+SUB 1
+JGZ start
+END
