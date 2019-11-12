@@ -5,6 +5,7 @@ TWOONENINE-Lang is an assembly-like  language. The intention is to make it easie
 
 ## Architecture
 TWOONENINE-Lang is intended to be an assembly-like language that makes implementing data-structures easier. The following is the architecture:
+
 NODEs can locally store their own Data and have their own local accumulator. They can also be used to pass data to other NODEs.
 
 `dat0-dat15` can store integers or strings.
